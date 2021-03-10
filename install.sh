@@ -1,4 +1,12 @@
 #!/bin/sh
+#
+# Author : P.Hoogeveen
+# AkA    : x0xr00t 
+# Build  : 20211003
+# 
+# This is a simple installer for linux >> Deb  
+# to test > ubuntu 
+# 
 
 # Root check
 if [ "$EUID" -ne 0 ]
