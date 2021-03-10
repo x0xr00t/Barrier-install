@@ -9,5 +9,5 @@ simple install for barrier a cross platform software, for sharing a single mouse
 ## incase the installer needs reboot and can't exec com.github.debauchee.barrier.flatpakref
 
 * run these comments after reboot =) 
-cd /home/{Your-User}/barrier-install
-flatpak install com.github.debauchee.barrier.flatpakref
+* cd /home/{Your-User}/barrier-install 
+* flatpak install com.github.debauchee.barrier.flatpakref
