@@ -10,7 +10,9 @@
 
 read -p "Please enter the username: " user
 
-# Root check
+GREEN_TEXT="\033[32m"
+RED_TEXT="\033[31m"
+
 if [ "$EUID" -ne 0 ]
   then echo -e "Please use ${RED_TEXT}root${GREEN_TEXT}for this installer"
   exit
