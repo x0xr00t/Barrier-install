@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #
 # Author : P.Hoogeveen
 # AkA    : x0xr00t 
