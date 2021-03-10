@@ -9,8 +9,11 @@ A simple Linux installer for barrier a cross platform software, for sharing a si
 
 * git clone https://github.com/x0xr00t/Barrier-install/ && cd Barrier-install && chmod +x install.sh && ./install.sh
 
+# Flatpak install 
 
-## incase the system needs  a reboot and can't exec com.github.debauchee.barrier.flatpakref
+* git clone https://github.com/x0xr00t/Barrier-install/ && cd Barrier-install && chmod +x flatpak-install.sh && ./flatpak-install.sh
+
+## incase the system needs a reboot and can't exec com.github.debauchee.barrier.flatpakref
 ## Exec these commands after reboot =)
 
 * cd /home/{Your-User}/barrier-install 
