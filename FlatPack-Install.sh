@@ -4,7 +4,7 @@
 # AkA    : x0xr00t 
 # Build  : 20211003
 # 
-# This is a simple installer for linux >> Deb  
+# This is a simple installer for FlatPack linux >> Deb  
 # to test > ubuntu 
 # 
 
